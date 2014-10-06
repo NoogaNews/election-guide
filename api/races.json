@@ -1537,11 +1537,11 @@
       {
         "ballot_id": 5,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Chattanooga, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Chattanooga, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Chattanooga, as provided by law.</p>",
         "race_id": 23,
         "jurisdiction": "chattanooga",
         "district": "",
-        "notes": "?WIG"
+        "notes": "WIG"
       }
     ]
   },
@@ -1561,11 +1561,11 @@
       {
         "ballot_id": 6,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Collegedale, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Collegedale, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Collegedale, as provided by law.</p>",
         "race_id": 24,
         "jurisdiction": "collegedale",
         "district": "",
-        "notes": "?WIG"
+        "notes": "WIG"
       }
     ]
   },
@@ -1612,7 +1612,7 @@
       {
         "ballot_id": 10,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of East Ridge, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of East Ridge, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of East Ridge, as provided by law.</p>",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1636,7 +1636,7 @@
       {
         "ballot_id": 11,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Lakesite, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Lakesite, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Lakesite, as provided by law.</p>",
         "race_id": 26,
         "jurisdiction": "lakesite",
         "district": "",
@@ -1656,17 +1656,7 @@
     "number": "",
     "notes": "?WIG",
     "candidates": "",
-    "propositions": [
-      {
-        "ballot_id": 12,
-        "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
-        "race_id": 27,
-        "jurisdiction": "lookout-mountain",
-        "district": "",
-        "notes": "?WIG"
-      }
-    ]
+    "propositions": ""
   },
   {
     "race_id": 28,
@@ -1682,9 +1672,9 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 13,
+        "ballot_id": 12,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Red Bank, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Red Bank, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Red Bank, as provided by law.</p>",
         "race_id": 28,
         "jurisdiction": "red-bank",
         "district": "",
@@ -1706,9 +1696,9 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 14,
+        "ballot_id": 13,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the Town of Signal Mountain, Hamilton County, Tennessee.</p><p>We, the registered voters of the Town of Signal Mountain, do hereby request the holding of a local option election to authorize wine at retail food stores in the Town of Signal Mountain, as provided by law.</p>",
         "race_id": 29,
         "jurisdiction": "signal-mountain",
         "district": "",
@@ -1730,7 +1720,7 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 15,
+        "ballot_id": 14,
         "title": "Package stores",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed augue lacus, vehicula non varius a, sagittis eget velit. Phasellus semper facilisis erat, non volutpat velit.",
         "race_id": 30,
@@ -1739,7 +1729,7 @@
         "notes": "?WIG, package stores"
       },
       {
-        "ballot_id": 16,
+        "ballot_id": 15,
         "title": "Wine in Grocery Stores",
         "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
         "race_id": 30,
