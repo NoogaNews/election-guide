@@ -19,7 +19,7 @@
                     '<div class="row" data-equalizer>' +
                         '{{ #candidates }}' + 
                         '<div class="large-6 medium-6 small-12 panel columns left" data-equalizer-watch style="background:none;border:none">' + 
-                            '<a href="/candidates/{{ name_slug }}"><img src="/img/default-avatar.png" class="left">' +
+                            '<a href="./candidates/{{ name_slug }}"><img src="/img/default-avatar.png" class="left">' +
                             // '<img src="/img/candidates/{{ name_slug }}.jpg">' + 
                             '<p class="text-center" ><small>' + 
                                 '{{ title }}</a><br>' + 
