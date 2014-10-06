@@ -1,0 +1,35 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        {% if page.title %} {{ page.title }} | {% endif %} {{ site.title }}
+    </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ "/css/foundation.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
+
+    <!-- JavaScript -->
+    <script src="/js/vendor/modernizr.js"></script>
+    <script type='text/javascript'>
+        (function() {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.defineSlot('/18982996/Election_Guide_300x250', [300, 250], 'div-gpt-ad-1411139973373-0').addService(googletag.pubads());
+        googletag.defineSlot('/18982996/Election_Guide_320', [320, 50], 'div-gpt-ad-1411139973373-1').addService(googletag.pubads());
+        googletag.defineSlot('/18982996/Election_Guide_728', [728, 90], 'div-gpt-ad-1411139973373-2').addService(googletag.pubads());
+        googletag.defineSlot('/18982996/Election_Guide_970', [970, 90], 'div-gpt-ad-1411139973373-3').addService(googletag.pubads());
+        googletag.pubads().enableSyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    </script>
+</head>
