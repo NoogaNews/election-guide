@@ -3,11 +3,11 @@
   <channel>
     <title>Nooga.com Voter Guide</title>
     <description>Nooga.com voter guide for the Nov. 4 election in Hamilton County, Tennessee.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Oct 2014 11:14:14 -0400</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2014 11:14:14 -0400</lastBuildDate>
-    <generator>Jekyll v2.2.0</generator>
+    <link>/election-guide/</link>
+    <atom:link href="/election-guide/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 06 Oct 2014 12:11:28 -0400</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2014 12:11:28 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
   </channel>
 </rss>
