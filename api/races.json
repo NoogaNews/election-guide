@@ -1585,7 +1585,7 @@
       {
         "ballot_id": 7,
         "title": "Charter Amendment No. 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum massa id imperdiet iaculis. Nullam nulla nisl, semper eu convallis ac, ornare vel mauris. Fusce.",
+        "description": "Shall the proposed amendments to section 1, section 2, section 3, and section 4 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections and with respect to the following specific changes: in section 2 (13), (15), and (18), to update the corporate powers of the City of East Ridge; in section 3 concerning voter qualifications in municipal elections; and in section 4, to remove a provision for the issuance of bonds currently governed by state law be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1594,7 +1594,7 @@
       {
         "ballot_id": 8,
         "title": "Charter Amendment No. 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed augue lacus, vehicula non varius a, sagittis eget velit. Phasellus semper facilisis erat, non volutpat velit.",
+        "description": "Shall the proposed amendments to section 5 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections and with respect to the following specific changes: in section 5, to add that elected officials are subject to recall as set forth in state law; in section 5-A, to state that the Mayor and Councilmembers’ salary and/or all other benefits may be adjusted only by referendum and not during their current term of office; in section 5-D, to provide that all citizens are entitled to address the Council at all open meetings, unless restricted by majority vote of the Council; in section 5-E, to provide that a Committee may be established to review the charter every five years; in section 5-F, to amend the City Manager’s education and experience requirements; in section 5-G, to amend the City Manager’s residency requirements; in section 5-I, to update the City Manager’s powers and duties; in section 5-K, to provide that the City Manager may be removed only by a supermajority vote of the Council; and in section 5-L, to state that the City Attorney can only be removed by a supermajority vote of the Council be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1603,7 +1603,7 @@
       {
         "ballot_id": 9,
         "title": "Charter Amendment No. 3",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum massa id imperdiet iaculis. Nullam nulla nisl, semper eu convallis ac, ornare vel mauris. Fusce.",
+        "description": "Shall the proposed amendments to section 6 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections, and with respect to the following specific changes: in section 6-B[(1)], to state that the compensation for the City Judge shall be not less than $1500.00 per month, in a new section 6-[B(2)], to provide for the qualifications, election, duties and responsibilities of the City Court Clerk; in section 6-C, to make certain changes concerning City Court jurisdiction and other changes to Court administration that conform to current state law; in section 6-D[(1)], to correct a typographical error and to remove a provision that provides for the appointment of a judge to preside in the event of an absence; in a new section 6-[D(2)], to provide for the removal of the City Court Clerk as set forth in state law; and in a new section 6-[F] to provide that the procedure required for annexation is set forth in Tennessee Code Annotated § 6-51-109 be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1611,6 +1611,15 @@
       },
       {
         "ballot_id": 10,
+        "title": "Charter Amendment No. 4",
+        "description": "Shall the proposed amendments to section 7, section 8, section 9, section 10, and section 11 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections, and with respect to new section [11], to authorize the City to establish a special school district be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
+        "race_id": 25,
+        "jurisdiction": "East-ridge",
+        "district": "",
+        "notes": "WIG, 4 charter amendments"
+      },
+      {
+        "ballot_id": 11,
         "title": "Wine in Grocery Stores",
         "description": "Petition to authorize the sale of wine at retail food stores in the City of East Ridge, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of East Ridge, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of East Ridge, as provided by law.</p>",
         "race_id": 25,
@@ -1634,7 +1643,7 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 11,
+        "ballot_id": 12,
         "title": "Wine in Grocery Stores",
         "description": "Petition to authorize the sale of wine at retail food stores in the City of Lakesite, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Lakesite, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Lakesite, as provided by law.</p>",
         "race_id": 26,
@@ -1672,7 +1681,7 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 12,
+        "ballot_id": 13,
         "title": "Wine in Grocery Stores",
         "description": "Petition to authorize the sale of wine at retail food stores in the City of Red Bank, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Red Bank, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Red Bank, as provided by law.</p>",
         "race_id": 28,
@@ -1696,7 +1705,7 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 13,
+        "ballot_id": 14,
         "title": "Wine in Grocery Stores",
         "description": "Petition to authorize the sale of wine at retail food stores in the Town of Signal Mountain, Hamilton County, Tennessee.</p><p>We, the registered voters of the Town of Signal Mountain, do hereby request the holding of a local option election to authorize wine at retail food stores in the Town of Signal Mountain, as provided by law.</p>",
         "race_id": 29,
@@ -1720,18 +1729,9 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 14,
-        "title": "Package stores",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed augue lacus, vehicula non varius a, sagittis eget velit. Phasellus semper facilisis erat, non volutpat velit.",
-        "race_id": 30,
-        "jurisdiction": "soddy-daisy",
-        "district": "",
-        "notes": "?WIG, package stores"
-      },
-      {
         "ballot_id": 15,
-        "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "title": "Package Stores",
+        "description": "To permit retail package stores to sell alcoholic beverages in the City of Soddy Daisy<br><br>Not to permit retail package stores to sell alcoholic beverages in the City of Soddy Daisy",
         "race_id": 30,
         "jurisdiction": "soddy-daisy",
         "district": "",
@@ -1751,17 +1751,7 @@
     "number": "",
     "notes": "?WIG",
     "candidates": "",
-    "propositions": [
-      {
-        "ballot_id": "",
-        "title": "",
-        "description": "",
-        "race_id": 31,
-        "jurisdiction": "walden",
-        "district": "",
-        "notes": "?WIG"
-      }
-    ]
+    "propositions": ""
   },
   {
     "race_id": 32,
@@ -1775,16 +1765,6 @@
     "number": "",
     "notes": "?WIG – Will have to figure out how to represent",
     "candidates": "",
-    "propositions": [
-      {
-        "ballot_id": "",
-        "title": "",
-        "description": "",
-        "race_id": 32,
-        "jurisdiction": "hamilton-county",
-        "district": "",
-        "notes": "?WIG – Will have to figure out how to represent"
-      }
-    ]
+    "propositions": ""
   }
 ]
