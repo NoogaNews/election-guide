@@ -7,14 +7,14 @@ incumbent: false
 name_slug: c-salekin
 title: C. Salekin
 party: Independent
-website: 
+website: http://csalekin.com/csalekin-for-us-senate/
 twitter: 
 facebook: 
 bio: 
 race_id: 2
 div_id: us-senate
 race_name: U.S. Senate
-image: default-avatar.png
+image: c-salekin.jpg
 survey: false
 jurisdiction: federal
 q1: 

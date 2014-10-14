@@ -7,9 +7,9 @@ incumbent: false
 name_slug: danny-page
 title: Danny Page
 party: Independent
-website: 
-twitter: 
-facebook: 
+website: http://dannypageforsenate.com
+twitter: http://twitter.com/PageforTN
+facebook: http://www.facebook.com/PageforTN
 bio: 
 race_id: 2
 div_id: us-senate

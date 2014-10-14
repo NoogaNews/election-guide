@@ -8,7 +8,7 @@ name_slug: mike-carter
 title: Mike Carter
 party: Republican
 website: 
-twitter: 
+twitter: https://twitter.com/RepMikeCarter
 facebook: 
 bio: 
 race_id: 8

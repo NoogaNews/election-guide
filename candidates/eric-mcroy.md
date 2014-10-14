@@ -19,8 +19,8 @@ survey: true
 jurisdiction: state
 q1: I support an expansion of Tenncare under the Affordable Care Act. Currently, thousands of  Tennesseans are uninsured and hospitals across the state are in jeopardy of collapsing.
 q2: Abortion is an issue between a woman and her doctor. That is not an area the government should be intruding.
-q3: I would like Common Core to put less emphasis on testing. Standardized testing is an important indicator of learning but it is not everything. Common Core needs to put the power back in the teacher’s hands while keeping standards as an indicator of academic progress.
-q4: With Tennessee’s current financial situation, we can not afford to repeal the Hall income tax. No one likes taxes and I understand that. However, before discussions begin on repealing the tax, we must find where the reduced revenue or spending cuts will take place.
+q3: I would like Common Core to put less emphasis on testing. Standardized testing is an important indicator of learning but it is not everything. Common Core needs to put the power back in the teacher???s hands while keeping standards as an indicator of academic progress.
+q4: With Tennessee???s current financial situation, we can not afford to repeal the Hall income tax. No one likes taxes and I understand that. However, before discussions begin on repealing the tax, we must find where the reduced revenue or spending cuts will take place.
 q5: 
 q6: 
 q7: 

@@ -7,14 +7,14 @@ incumbent: false
 name_slug: joe-wilmoth
 title: Joe Wilmoth
 party: Constitution
-website: 
+website: http://www.wilmoth2014.com
 twitter: 
-facebook: 
+facebook: http://www.facebook.com/pages/Joe-Wilmoth-US-Senate-2014/529619930476434
 bio: 
 race_id: 2
 div_id: us-senate
 race_name: U.S. Senate
-image: default-avatar.png
+image: joe-wilmoth.png
 survey: false
 jurisdiction: federal
 q1: 

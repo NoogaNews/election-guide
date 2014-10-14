@@ -8,7 +8,7 @@ name_slug: bo-watson
 title: Bo Watson
 party: Republican
 website: 
-twitter: 
+twitter: http://twitter.com/SenBoWatson
 facebook: 
 bio: 
 race_id: 4

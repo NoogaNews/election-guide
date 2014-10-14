@@ -9,7 +9,7 @@ title: Charles V. "Charlie" Brown
 party: Democratic
 website: 
 twitter: 
-facebook: 
+facebook: http://www.facebook.com/pages/Chrles-VCharlie-Brown-For-Governor/1379534778986698
 bio: 
 race_id: 1
 div_id: tennessee-governor

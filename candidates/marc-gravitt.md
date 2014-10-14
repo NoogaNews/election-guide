@@ -7,14 +7,14 @@ incumbent: false
 name_slug: marc-gravitt
 title: Marc Gravitt
 party: Republican
-website: 
+website: http://electgravitt.com
 twitter: 
-facebook: 
+facebook: http://www.facebook.com/electgravitt
 bio: 
 race_id: 9
 div_id: tennessee-house-district-30
 race_name: Tennessee House, 30th District
-image: default-avatar.png
+image: marc-gravitt.jpg
 survey: false
 jurisdiction: state
 q1: 

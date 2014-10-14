@@ -7,9 +7,9 @@ incumbent: true
 name_slug: bill-haslam
 title: Bill Haslam
 party: Republican
-website: 
-twitter: 
-facebook: 
+website: http://www.billhaslam.com
+twitter: https://twitter.com/BillHaslam
+facebook: http://www.facebook.com/TeamHaslam
 bio: 
 race_id: 1
 div_id: tennessee-governor

@@ -7,14 +7,14 @@ incumbent: false
 name_slug: joshua-james
 title: Joshua James
 party: Independent
-website: 
+website: http://www.joshuajamesforsenate.com/
 twitter: 
-facebook: 
+facebook: http://www.facebook.com/pages/Joshua-James-for-US-Senate-2014/695678837133301
 bio: 
 race_id: 2
 div_id: us-senate
 race_name: U.S. Senate
-image: default-avatar.png
+image: joshua-james.jpg
 survey: false
 jurisdiction: federal
 q1: 

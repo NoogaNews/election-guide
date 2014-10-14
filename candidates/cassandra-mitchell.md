@@ -9,7 +9,7 @@ title: Cassandra J. Mitchell
 party: Independent
 website: 
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/unlockingamerica
 bio: 
 race_id: 3
 div_id: us-house-tn03

@@ -7,14 +7,14 @@ incumbent: false
 name_slug: steven-damon-coburn
 title: Steven Damon Coburn
 party: Independent
-website: 
+website: http://stevendamoncoburn.com
 twitter: 
 facebook: 
 bio: 
 race_id: 1
 div_id: tennessee-governor
 race_name: Tennessee Governor
-image: default-avatar.png
+image: steven-damon-coburn.png
 survey: false
 jurisdiction: state
 q1: 

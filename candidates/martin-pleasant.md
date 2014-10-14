@@ -7,14 +7,14 @@ incumbent: false
 name_slug: martin-pleasant
 title: Martin Pleasant
 party: Green
-website: 
+website: http://www.martinpleasant.com
 twitter: 
-facebook: 
+facebook: http://www.facebook.com/martinpleasnt
 bio: 
 race_id: 2
 div_id: us-senate
 race_name: U.S. Senate
-image: default-avatar.png
+image: martin-pleasant.png
 survey: false
 jurisdiction: federal
 q1: 

@@ -7,14 +7,14 @@ incumbent: false
 name_slug: daniel-lewis
 title: Daniel T. Lewis
 party: Independent
-website: 
+website: http://www.lewisdt.com
 twitter: 
-facebook: 
+facebook: http://www.facebook.com/dl4governor
 bio: 
 race_id: 1
 div_id: tennessee-governor
 race_name: Tennessee Governor
-image: default-avatar.png
+image: daniel-lewis.jpg
 survey: false
 jurisdiction: state
 q1: 

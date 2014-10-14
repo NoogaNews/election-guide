@@ -7,9 +7,9 @@ incumbent: true
 name_slug: joanne-favors
 title: JoAnne Favors
 party: Democratic
-website: 
-twitter: 
-facebook: 
+website: http://www.joannefavors.com
+twitter: http://twitter.com/repjofavors
+facebook: http://www.facebook.com/joanne.favors.1
 bio: 
 race_id: 7
 div_id: tennessee-house-district-28
