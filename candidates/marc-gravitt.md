@@ -14,5 +14,5 @@ bio:
 race_id: 9
 div_id: tennessee-house-district-30
 race_name: Tennessee House, 30th District
-notes: 
+image: default-avatar.png
 ---

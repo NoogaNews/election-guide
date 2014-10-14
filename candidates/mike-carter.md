@@ -14,5 +14,5 @@ bio:
 race_id: 8
 div_id: tennessee-house-district-29
 race_name: Tennessee House, 29th District
-notes: 
+image: mike-carter.jpg
 ---

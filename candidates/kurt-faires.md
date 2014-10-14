@@ -14,5 +14,5 @@ bio:
 race_id: 17
 div_id: ridgeside-commissioner
 race_name: Ridgeside City Commission
-notes: 
+image: default-avatar.png
 ---

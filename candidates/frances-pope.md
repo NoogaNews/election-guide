@@ -14,5 +14,5 @@ bio:
 race_id: 11
 div_id: east-ridge-mayor
 race_name: East Ridge Mayor
-notes: 
+image: default-avatar.png
 ---

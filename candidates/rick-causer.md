@@ -14,5 +14,5 @@ bio:
 race_id: 14
 div_id: red-bank-commissioner-atlarge
 race_name: Red Bank City Commission, At Large
-notes: 
+image: default-avatar.png
 ---

@@ -14,5 +14,5 @@ bio:
 race_id: 15
 div_id: red-bank-commissioner-district-1
 race_name: Red Bank City Commission, 1st District
-notes: 
+image: default-avatar.png
 ---

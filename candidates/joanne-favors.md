@@ -14,5 +14,5 @@ bio:
 race_id: 7
 div_id: tennessee-house-district-28
 race_name: Tennessee House, 28th District
-notes: 
+image: joanne-favors.jpg
 ---

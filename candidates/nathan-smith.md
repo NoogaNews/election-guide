@@ -14,5 +14,5 @@ bio:
 race_id: 10
 div_id: collegedale-commissioner
 race_name: Collegedale Board of Commissioners
-notes: 
+image: nathan-smith.jpg
 ---

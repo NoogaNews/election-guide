@@ -14,5 +14,5 @@ bio:
 race_id: 1
 div_id: tennessee-governor
 race_name: Tennessee Governor
-notes: 
+image: default-avatar.png
 ---

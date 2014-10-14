@@ -14,5 +14,5 @@ bio:
 race_id: 13
 div_id: lakesite-commissioner
 race_name: Lakesite City Commission
-notes: 
+image: default-avatar.png
 ---

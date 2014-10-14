@@ -14,5 +14,5 @@ bio:
 race_id: 21
 div_id: walden-alderman
 race_name: Walden Alderman
-notes: 
+image: default-avatar.png
 ---

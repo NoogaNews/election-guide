@@ -14,5 +14,5 @@ bio:
 race_id: 2
 div_id: us-senate
 race_name: U.S. Senate
-notes: 
+image: edmund-gauthier.jpg
 ---

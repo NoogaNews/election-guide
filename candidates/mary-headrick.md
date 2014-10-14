@@ -14,5 +14,5 @@ bio:
 race_id: 3
 div_id: us-house-tn03
 race_name: U.S. House, Tennessee's 3rd Congressional District
-notes: 
+image: mary-headrick.jpg
 ---

@@ -14,5 +14,5 @@ bio:
 race_id: 18
 div_id: signal-mountain-council
 race_name: Signal Mountain Town Council
-notes: 
+image: default-avatar.png
 ---

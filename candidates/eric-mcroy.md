@@ -14,5 +14,5 @@ bio:
 race_id: 6
 div_id: tennessee-house-district-27
 race_name: Tennessee House, 27th District
-notes: 
+image: eric-mcroy.jpg
 ---

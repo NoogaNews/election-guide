@@ -14,5 +14,5 @@ bio:
 race_id: 20
 div_id: walden-mayor
 race_name: Walden Mayor
-notes: 
+image: default-avatar.png
 ---

@@ -14,5 +14,5 @@ bio:
 race_id: 19
 div_id: soddy-daisy-commissioner
 race_name: Soddy-Daisy City Commission
-notes: 
+image: default-avatar.png
 ---

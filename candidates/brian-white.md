@@ -14,5 +14,5 @@ bio:
 race_id: 12
 div_id: east-ridge-council-member
 race_name: East Ridge City Council
-notes: 
+image: default-avatar.png
 ---

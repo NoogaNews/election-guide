@@ -14,5 +14,5 @@ bio:
 race_id: 4
 div_id: tennessee-senate-district-11
 race_name: Tennessee Senate, 11th District
-notes: 
+image: bo-watson.jpg
 ---

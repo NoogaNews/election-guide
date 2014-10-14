@@ -26,7 +26,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 2,
@@ -43,7 +43,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 3,
@@ -60,7 +60,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": "Pending legal decision"
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 4,
@@ -77,7 +77,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": ""
+        "image": "bill-haslam.jpg"
       },
       {
         "candidate_id": 5,
@@ -94,7 +94,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 6,
@@ -111,7 +111,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": "Pending legal decision"
+        "image": "isa-infante.jpg"
       },
       {
         "candidate_id": 7,
@@ -128,7 +128,7 @@
         "race_id": 1,
         "div_id": "tennessee-governor",
         "race_name": "Tennessee Governor",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -160,7 +160,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "lamar-alexander.jpg"
       },
       {
         "candidate_id": 9,
@@ -177,7 +177,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "gordon-ball.jpg"
       },
       {
         "candidate_id": 10,
@@ -194,7 +194,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "tom-emerson.jpg"
       },
       {
         "candidate_id": 11,
@@ -211,7 +211,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "edmund-gauthier.jpg"
       },
       {
         "candidate_id": 12,
@@ -228,7 +228,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 13,
@@ -245,7 +245,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 14,
@@ -262,7 +262,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 15,
@@ -279,7 +279,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": "Pending legal decision"
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 16,
@@ -296,7 +296,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 17,
@@ -313,7 +313,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 18,
@@ -330,7 +330,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 19,
@@ -347,7 +347,7 @@
         "race_id": 2,
         "div_id": "us-senate",
         "race_name": "U.S. Senate",
-        "notes": "Pending legal decision"
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -379,7 +379,7 @@
         "race_id": 3,
         "div_id": "us-house-tn03",
         "race_name": "U.S. House, Tennessee's 3rd Congressional District",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 21,
@@ -396,7 +396,7 @@
         "race_id": 3,
         "div_id": "us-house-tn03",
         "race_name": "U.S. House, Tennessee's 3rd Congressional District",
-        "notes": ""
+        "image": "mary-headrick.jpg"
       },
       {
         "candidate_id": 22,
@@ -413,7 +413,7 @@
         "race_id": 3,
         "div_id": "us-house-tn03",
         "race_name": "U.S. House, Tennessee's 3rd Congressional District",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -445,7 +445,7 @@
         "race_id": 4,
         "div_id": "tennessee-senate-district-11",
         "race_name": "Tennessee Senate, 11th District",
-        "notes": ""
+        "image": "bo-watson.jpg"
       }
     ],
     "propositions": ""
@@ -477,7 +477,7 @@
         "race_id": 5,
         "div_id": "tennessee-house-district-26",
         "race_name": "Tennessee House, 26th District",
-        "notes": ""
+        "image": "gerald-mccormick.jpg"
       }
     ],
     "propositions": ""
@@ -509,7 +509,7 @@
         "race_id": 6,
         "div_id": "tennessee-house-district-27",
         "race_name": "Tennessee House, 27th District",
-        "notes": ""
+        "image": "patsy-hazlewood.jpg"
       },
       {
         "candidate_id": 26,
@@ -526,7 +526,7 @@
         "race_id": 6,
         "div_id": "tennessee-house-district-27",
         "race_name": "Tennessee House, 27th District",
-        "notes": ""
+        "image": "eric-mcroy.jpg"
       }
     ],
     "propositions": ""
@@ -558,7 +558,7 @@
         "race_id": 7,
         "div_id": "tennessee-house-district-28",
         "race_name": "Tennessee House, 28th District",
-        "notes": ""
+        "image": "joanne-favors.jpg"
       }
     ],
     "propositions": ""
@@ -590,7 +590,7 @@
         "race_id": 8,
         "div_id": "tennessee-house-district-29",
         "race_name": "Tennessee House, 29th District",
-        "notes": ""
+        "image": "mike-carter.jpg"
       }
     ],
     "propositions": ""
@@ -622,7 +622,7 @@
         "race_id": 9,
         "div_id": "tennessee-house-district-30",
         "race_name": "Tennessee House, 30th District",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -654,7 +654,7 @@
         "race_id": 10,
         "div_id": "collegedale-commissioner",
         "race_name": "Collegedale Board of Commissioners",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 31,
@@ -671,7 +671,7 @@
         "race_id": 10,
         "div_id": "collegedale-commissioner",
         "race_name": "Collegedale Board of Commissioners",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 32,
@@ -688,7 +688,7 @@
         "race_id": 10,
         "div_id": "collegedale-commissioner",
         "race_name": "Collegedale Board of Commissioners",
-        "notes": ""
+        "image": "nathan-smith.jpg"
       },
       {
         "candidate_id": 33,
@@ -705,7 +705,7 @@
         "race_id": 10,
         "div_id": "collegedale-commissioner",
         "race_name": "Collegedale Board of Commissioners",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 34,
@@ -722,7 +722,7 @@
         "race_id": 10,
         "div_id": "collegedale-commissioner",
         "race_name": "Collegedale Board of Commissioners",
-        "notes": ""
+        "image": "ethan-white.jpg"
       }
     ],
     "propositions": ""
@@ -754,7 +754,7 @@
         "race_id": 11,
         "div_id": "east-ridge-mayor",
         "race_name": "East Ridge Mayor",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 36,
@@ -771,7 +771,7 @@
         "race_id": 11,
         "div_id": "east-ridge-mayor",
         "race_name": "East Ridge Mayor",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 37,
@@ -788,7 +788,7 @@
         "race_id": 11,
         "div_id": "east-ridge-mayor",
         "race_name": "East Ridge Mayor",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -820,7 +820,7 @@
         "race_id": 12,
         "div_id": "east-ridge-council-member",
         "race_name": "East Ridge City Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 39,
@@ -837,7 +837,7 @@
         "race_id": 12,
         "div_id": "east-ridge-council-member",
         "race_name": "East Ridge City Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 40,
@@ -854,7 +854,7 @@
         "race_id": 12,
         "div_id": "east-ridge-council-member",
         "race_name": "East Ridge City Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 41,
@@ -871,7 +871,7 @@
         "race_id": 12,
         "div_id": "east-ridge-council-member",
         "race_name": "East Ridge City Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 42,
@@ -888,7 +888,7 @@
         "race_id": 12,
         "div_id": "east-ridge-council-member",
         "race_name": "East Ridge City Council",
-        "notes": ""
+        "image": "robert-stahl.jpg"
       },
       {
         "candidate_id": 43,
@@ -905,7 +905,7 @@
         "race_id": 12,
         "div_id": "east-ridge-council-member",
         "race_name": "East Ridge City Council",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -937,7 +937,7 @@
         "race_id": 13,
         "div_id": "lakesite-commissioner",
         "race_name": "Lakesite City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 45,
@@ -954,7 +954,7 @@
         "race_id": 13,
         "div_id": "lakesite-commissioner",
         "race_name": "Lakesite City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 46,
@@ -971,7 +971,7 @@
         "race_id": 13,
         "div_id": "lakesite-commissioner",
         "race_name": "Lakesite City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 47,
@@ -988,7 +988,7 @@
         "race_id": 13,
         "div_id": "lakesite-commissioner",
         "race_name": "Lakesite City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1020,7 +1020,7 @@
         "race_id": 14,
         "div_id": "red-bank-commissioner-atlarge",
         "race_name": "Red Bank City Commission, At Large",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 49,
@@ -1037,7 +1037,7 @@
         "race_id": 14,
         "div_id": "red-bank-commissioner-atlarge",
         "race_name": "Red Bank City Commission, At Large",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1069,7 +1069,7 @@
         "race_id": 15,
         "div_id": "red-bank-commissioner-district-1",
         "race_name": "Red Bank City Commission, 1st District",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 51,
@@ -1086,7 +1086,7 @@
         "race_id": 15,
         "div_id": "red-bank-commissioner-district-1",
         "race_name": "Red Bank City Commission, 1st District",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1118,7 +1118,7 @@
         "race_id": 16,
         "div_id": "red-bank-commissioner-district-3",
         "race_name": "Red Bank City Commission, 3rd District",
-        "notes": ""
+        "image": "edward-lecompte.jpg"
       },
       {
         "candidate_id": 53,
@@ -1135,7 +1135,7 @@
         "race_id": 16,
         "div_id": "red-bank-commissioner-district-3",
         "race_name": "Red Bank City Commission, 3rd District",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1167,7 +1167,7 @@
         "race_id": 17,
         "div_id": "ridgeside-commissioner",
         "race_name": "Ridgeside City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 55,
@@ -1184,7 +1184,7 @@
         "race_id": 17,
         "div_id": "ridgeside-commissioner",
         "race_name": "Ridgeside City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 56,
@@ -1201,7 +1201,7 @@
         "race_id": 17,
         "div_id": "ridgeside-commissioner",
         "race_name": "Ridgeside City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1233,7 +1233,7 @@
         "race_id": 18,
         "div_id": "signal-mountain-council",
         "race_name": "Signal Mountain Town Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 58,
@@ -1250,7 +1250,7 @@
         "race_id": 18,
         "div_id": "signal-mountain-council",
         "race_name": "Signal Mountain Town Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 59,
@@ -1267,7 +1267,7 @@
         "race_id": 18,
         "div_id": "signal-mountain-council",
         "race_name": "Signal Mountain Town Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 60,
@@ -1284,7 +1284,7 @@
         "race_id": 18,
         "div_id": "signal-mountain-council",
         "race_name": "Signal Mountain Town Council",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 61,
@@ -1301,7 +1301,7 @@
         "race_id": 18,
         "div_id": "signal-mountain-council",
         "race_name": "Signal Mountain Town Council",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1333,7 +1333,7 @@
         "race_id": 19,
         "div_id": "soddy-daisy-commissioner",
         "race_name": "Soddy-Daisy City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 63,
@@ -1350,7 +1350,7 @@
         "race_id": 19,
         "div_id": "soddy-daisy-commissioner",
         "race_name": "Soddy-Daisy City Commission",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1382,7 +1382,7 @@
         "race_id": 20,
         "div_id": "walden-mayor",
         "race_name": "Walden Mayor",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 65,
@@ -1399,7 +1399,7 @@
         "race_id": 20,
         "div_id": "walden-mayor",
         "race_name": "Walden Mayor",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1431,7 +1431,7 @@
         "race_id": 21,
         "div_id": "walden-alderman",
         "race_name": "Walden Alderman",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 67,
@@ -1448,7 +1448,7 @@
         "race_id": 21,
         "div_id": "walden-alderman",
         "race_name": "Walden Alderman",
-        "notes": ""
+        "image": "default-avatar.png"
       },
       {
         "candidate_id": 68,
@@ -1465,7 +1465,7 @@
         "race_id": 21,
         "div_id": "walden-alderman",
         "race_name": "Walden Alderman",
-        "notes": ""
+        "image": "default-avatar.png"
       }
     ],
     "propositions": ""
@@ -1537,11 +1537,11 @@
       {
         "ballot_id": 5,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Chattanooga, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Chattanooga, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Chattanooga, as provided by law.</p>",
         "race_id": 23,
         "jurisdiction": "chattanooga",
         "district": "",
-        "notes": "?WIG"
+        "notes": "WIG"
       }
     ]
   },
@@ -1561,11 +1561,11 @@
       {
         "ballot_id": 6,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Collegedale, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Collegedale, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Collegedale, as provided by law.</p>",
         "race_id": 24,
         "jurisdiction": "collegedale",
         "district": "",
-        "notes": "?WIG"
+        "notes": "WIG"
       }
     ]
   },
@@ -1585,7 +1585,7 @@
       {
         "ballot_id": 7,
         "title": "Charter Amendment No. 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum massa id imperdiet iaculis. Nullam nulla nisl, semper eu convallis ac, ornare vel mauris. Fusce.",
+        "description": "Shall the proposed amendments to section 1, section 2, section 3, and section 4 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections and with respect to the following specific changes: in section 2 (13), (15), and (18), to update the corporate powers of the City of East Ridge; in section 3 concerning voter qualifications in municipal elections; and in section 4, to remove a provision for the issuance of bonds currently governed by state law be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1594,7 +1594,7 @@
       {
         "ballot_id": 8,
         "title": "Charter Amendment No. 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed augue lacus, vehicula non varius a, sagittis eget velit. Phasellus semper facilisis erat, non volutpat velit.",
+        "description": "Shall the proposed amendments to section 5 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections and with respect to the following specific changes: in section 5, to add that elected officials are subject to recall as set forth in state law; in section 5-A, to state that the Mayor and Councilmembers’ salary and/or all other benefits may be adjusted only by referendum and not during their current term of office; in section 5-D, to provide that all citizens are entitled to address the Council at all open meetings, unless restricted by majority vote of the Council; in section 5-E, to provide that a Committee may be established to review the charter every five years; in section 5-F, to amend the City Manager’s education and experience requirements; in section 5-G, to amend the City Manager’s residency requirements; in section 5-I, to update the City Manager’s powers and duties; in section 5-K, to provide that the City Manager may be removed only by a supermajority vote of the Council; and in section 5-L, to state that the City Attorney can only be removed by a supermajority vote of the Council be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1603,7 +1603,7 @@
       {
         "ballot_id": 9,
         "title": "Charter Amendment No. 3",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum massa id imperdiet iaculis. Nullam nulla nisl, semper eu convallis ac, ornare vel mauris. Fusce.",
+        "description": "Shall the proposed amendments to section 6 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections, and with respect to the following specific changes: in section 6-B[(1)], to state that the compensation for the City Judge shall be not less than $1500.00 per month, in a new section 6-[B(2)], to provide for the qualifications, election, duties and responsibilities of the City Court Clerk; in section 6-C, to make certain changes concerning City Court jurisdiction and other changes to Court administration that conform to current state law; in section 6-D[(1)], to correct a typographical error and to remove a provision that provides for the appointment of a judge to preside in the event of an absence; in a new section 6-[D(2)], to provide for the removal of the City Court Clerk as set forth in state law; and in a new section 6-[F] to provide that the procedure required for annexation is set forth in Tennessee Code Annotated § 6-51-109 be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1611,8 +1611,17 @@
       },
       {
         "ballot_id": 10,
+        "title": "Charter Amendment No. 4",
+        "description": "Shall the proposed amendments to section 7, section 8, section 9, section 10, and section 11 of the charter of the City of East Ridge, as specifically set forth in ordinance No. 974, with respect to certain grammatical and stylistic changes throughout those sections, and with respect to new section [11], to authorize the City to establish a special school district be approved?<br><br>Certification of the chief financial officer: This measure has no financial impact on the City.",
+        "race_id": 25,
+        "jurisdiction": "East-ridge",
+        "district": "",
+        "notes": "WIG, 4 charter amendments"
+      },
+      {
+        "ballot_id": 11,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of East Ridge, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of East Ridge, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of East Ridge, as provided by law.</p>",
         "race_id": 25,
         "jurisdiction": "east-ridge",
         "district": "",
@@ -1634,9 +1643,9 @@
     "candidates": "",
     "propositions": [
       {
-        "ballot_id": 11,
+        "ballot_id": 12,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Lakesite, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Lakesite, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Lakesite, as provided by law.</p>",
         "race_id": 26,
         "jurisdiction": "lakesite",
         "district": "",
@@ -1656,17 +1665,7 @@
     "number": "",
     "notes": "?WIG",
     "candidates": "",
-    "propositions": [
-      {
-        "ballot_id": 12,
-        "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
-        "race_id": 27,
-        "jurisdiction": "lookout-mountain",
-        "district": "",
-        "notes": "?WIG"
-      }
-    ]
+    "propositions": ""
   },
   {
     "race_id": 28,
@@ -1684,7 +1683,7 @@
       {
         "ballot_id": 13,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the City of Red Bank, Hamilton County, Tennessee.</p><p>We, the registered voters of the City of Red Bank, do hereby request the holding of a local option election to authorize wine at retail food stores in the City of Red Bank, as provided by law.</p>",
         "race_id": 28,
         "jurisdiction": "red-bank",
         "district": "",
@@ -1708,7 +1707,7 @@
       {
         "ballot_id": 14,
         "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "description": "Petition to authorize the sale of wine at retail food stores in the Town of Signal Mountain, Hamilton County, Tennessee.</p><p>We, the registered voters of the Town of Signal Mountain, do hereby request the holding of a local option election to authorize wine at retail food stores in the Town of Signal Mountain, as provided by law.</p>",
         "race_id": 29,
         "jurisdiction": "signal-mountain",
         "district": "",
@@ -1731,17 +1730,8 @@
     "propositions": [
       {
         "ballot_id": 15,
-        "title": "Package stores",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed augue lacus, vehicula non varius a, sagittis eget velit. Phasellus semper facilisis erat, non volutpat velit.",
-        "race_id": 30,
-        "jurisdiction": "soddy-daisy",
-        "district": "",
-        "notes": "?WIG, package stores"
-      },
-      {
-        "ballot_id": 16,
-        "title": "Wine in Grocery Stores",
-        "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu sapien turpis. Cras nec auctor lectus. Cras auctor elit ligula. Integer ultricies leo ut justo eleifend facilisis. Mauris rhoncus laoreet.",
+        "title": "Package Stores",
+        "description": "To permit retail package stores to sell alcoholic beverages in the City of Soddy Daisy<br><br>Not to permit retail package stores to sell alcoholic beverages in the City of Soddy Daisy",
         "race_id": 30,
         "jurisdiction": "soddy-daisy",
         "district": "",
@@ -1761,17 +1751,7 @@
     "number": "",
     "notes": "?WIG",
     "candidates": "",
-    "propositions": [
-      {
-        "ballot_id": "",
-        "title": "",
-        "description": "",
-        "race_id": 31,
-        "jurisdiction": "walden",
-        "district": "",
-        "notes": "?WIG"
-      }
-    ]
+    "propositions": ""
   },
   {
     "race_id": 32,
@@ -1785,16 +1765,6 @@
     "number": "",
     "notes": "?WIG – Will have to figure out how to represent",
     "candidates": "",
-    "propositions": [
-      {
-        "ballot_id": "",
-        "title": "",
-        "description": "",
-        "race_id": 32,
-        "jurisdiction": "hamilton-county",
-        "district": "",
-        "notes": "?WIG – Will have to figure out how to represent"
-      }
-    ]
+    "propositions": ""
   }
 ]

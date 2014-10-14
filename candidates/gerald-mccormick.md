@@ -14,5 +14,5 @@ bio:
 race_id: 5
 div_id: tennessee-house-district-26
 race_name: Tennessee House, 26th District
-notes: 
+image: gerald-mccormick.jpg
 ---
