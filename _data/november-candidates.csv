@@ -1,69 +1,69 @@
-"candidate_id","first_name","last_name","incumbent","name_slug","title","party","website","twitter","facebook","bio","race_id","div_id","race_name","image","federal_q1","federal_q2","federal_q3","federal_q4","federal_q5","federal_q6","federal_q7","federal_q8","federal_q9","federal_q10","federal_q11","federal_q12","state_q1","state_q2","state_q3","state_q4","municipal_q1","municipal_q2","municipal_q3"
-1,"Charles V. ""Charlie""","Brown","false","charles-brown","Charles V. ""Charlie"" Brown","Democratic",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png"
-2,"Steven Damon","Coburn","false","steven-damon-coburn","Steven Damon Coburn","Independent",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png"
-3,"Shaun","Crowell","false","shaun-crowell","Shaun Crowell","Constitution",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png"
-4,"Bill","Haslam","true","bill-haslam","Bill Haslam ","Republican",,,,,1,"tennessee-governor","Tennessee Governor","bill-haslam.jpg"
-5,"John Jay","Hooker","false","john-jay-hooker","John Jay Hooker","Independent",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png"
-6,"Isa","Infante","false","isa-infante","Isa Infante","Green",,,,,1,"tennessee-governor","Tennessee Governor","isa-infante.jpg"
-7,"Daniel T.","Lewis","false","daniel-lewis","Daniel T. Lewis","Independent",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png"
-8,"Lamar","Alexander ","true","lamar-alexander","Lamar Alexander ","Republican",,,,,2,"us-senate","U.S. Senate","lamar-alexander.jpg"
-9,"Gordon","Ball","false","gordon-ball","Gordon Ball","Democratic",,,,,2,"us-senate","U.S. Senate","gordon-ball.jpg"
-10,"Tom","Emerson Jr.","false","tom-emerson","Tom Emerson Jr.","Independent",,,,,2,"us-senate","U.S. Senate","tom-emerson.jpg"
-11,"Edmund L.","Gauthier","false","edmund-gauthier","Edmund L. Gauthier","Independent",,,,,2,"us-senate","U.S. Senate","edmund-gauthier.jpg"
-12,"Joshua","James ","false","joshua-james","Joshua James ","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-13,"Danny","Page","false","danny-page","Danny Page","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-14,"Bartholomew J.","Phillips","false","bartholomew-phillips","Bartholomew J. Phillips","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-15,"Martin","Pleasant","false","martin-pleasant","Martin Pleasant","Green",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-16,"C.","Salekin","false","c-salekin","C. Salekin","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-17,"Eric","Schechter ","false","eric-schechter","Eric Schechter ","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-18,"Rick","Tyler","false","rick-tyler","Rick Tyler","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-19,"Joe","Wilmoth","false","joe-wilmoth","Joe Wilmoth","Constitution",,,,,2,"us-senate","U.S. Senate","default-avatar.png"
-20,"Chuck","Fleischmann","true","chuck-fleischmann","Chuck Fleischmann","Republican",,,,,3,"us-house-tn03","U.S. House, Tennessee's 3rd Congressional District","default-avatar.png"
-21,"Mary M.","Headrick","false","mary-headrick","Mary M. Headrick","Democratic",,,,,3,"us-house-tn03","U.S. House, Tennessee's 3rd Congressional District","mary-headrick.jpg"
-22,"Cassandra J.","Mitchell","false","cassandra-mitchell","Cassandra J. Mitchell","Independent",,,,,3,"us-house-tn03","U.S. House, Tennessee's 3rd Congressional District","default-avatar.png"
-23,"Bo","Watson","true","bo-watson","Bo Watson","Republican",,,,,4,"tennessee-senate-district-11","Tennessee Senate, 11th District","bo-watson.jpg"
-24,"Gerald","McCormick","true","gerald-mccormick","Gerald McCormick","Republican",,,,,5,"tennessee-house-district-26","Tennessee House, 26th District","gerald-mccormick.jpg"
-25,"Patsy","Hazlewood","false","patsy-hazlewood","Patsy Hazlewood","Republican",,,,,6,"tennessee-house-district-27","Tennessee House, 27th District","patsy-hazlewood.jpg"
-26,"Eric","McRoy","false","eric-mcroy","Eric McRoy","Democratic",,,,,6,"tennessee-house-district-27","Tennessee House, 27th District","eric-mcroy.jpg"
-27,"JoAnne","Favors","true","joanne-favors","JoAnne Favors","Democratic",,,,,7,"tennessee-house-district-28","Tennessee House, 28th District","joanne-favors.jpg"
-28,"Mike","Carter","true","mike-carter","Mike Carter","Republican",,,,,8,"tennessee-house-district-29","Tennessee House, 29th District","mike-carter.jpg"
-29,"Marc","Gravitt","false","marc-gravitt","Marc Gravitt","Republican",,,,,9,"tennessee-house-district-30","Tennessee House, 30th District","default-avatar.png"
-30,"Patricia","Fountain","false","patricia-fountain","Patricia Fountain",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","default-avatar.png"
-31,"Phil","Garver","false","phil-garver","Phil Garver",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","default-avatar.png"
-32,"Nathan","Smith","false","nathan-smith","Nathan Smith",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","nathan-smith.jpg"
-33,"John C.","Turner","true","john-turner","John C. Turner",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","default-avatar.png"
-34,"Ethan","White","false","ethan-white","Ethan White",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","ethan-white.jpg"
-35,"James","Bethune","false","james-bethune","James Bethune",,,,,,11,"east-ridge-mayor","East Ridge Mayor","default-avatar.png"
-36,"Brent","Lambert","true","brent-lambert","Brent Lambert",,,,,,11,"east-ridge-mayor","East Ridge Mayor","default-avatar.png"
-37,"Frances","Pope","false","frances-pope","Frances Pope",,,,,,11,"east-ridge-mayor","East Ridge Mayor","default-avatar.png"
-38,"Robert","Bedwell","false","robert-bedwell","Robert Bedwell",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png"
-39,"Jacky","Cagle","false","jacky-cagle","Jacky Cagle",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png"
-40,"Doris","Rogers","false","doris-rogers","Doris Rogers",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png"
-41,"Larry","Sewell","true","larry-sewell","Larry Sewell",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png"
-42,"Robert A.","Stahl","false","robert-stahl","Robert A. Stahl",,,,,,12,"east-ridge-council-member","East Ridge City Council","robert-stahl.jpg"
-43,"Brian D.","White","false","brian-white","Brian D. White",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png"
-44,"Valerie J.","Boddy","true","valerie-boddy","Valerie J. Boddy",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png"
-45,"Curtis L.","Jones","false","curtis-jones","Curtis L. Jones",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png"
-46,"Bill","Neighbors","true","bill-neighbors","Bill Neighbors",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png"
-47,"Kenneth","Wilkerson","true","kenneth-wilkerson","Kenneth Wilkerson",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png"
-48,"Rick","Causer","false","rick-causer","Rick Causer",,,,,,14,"red-bank-commissioner-atlarge","Red Bank City Commission, At Large","default-avatar.png"
-49,"John","Roberts","true","john-roberts","John Roberts",,,,,,14,"red-bank-commissioner-atlarge","Red Bank City Commission, At Large","default-avatar.png"
-50,"Mildred Floy","Pierce","true","mildred-floy-pierce","Mildred Floy Pierce",,,,,,15,"red-bank-commissioner-district-1","Red Bank City Commission, 1st District","default-avatar.png"
-51,"Terry","Pope","false","terry-pope","Terry Pope",,,,,,15,"red-bank-commissioner-district-1","Red Bank City Commission, 1st District","default-avatar.png"
-52,"Edward","LeCompte","false","edward-lecompte","Edward LeCompte",,,,,,16,"red-bank-commissioner-district-3","Red Bank City Commission, 3rd District","edward-lecompte.jpg"
-53,"Dalton Alexander","Temple","false","dalton-alexander-temple","Dalton Alexander Temple",,,,,,16,"red-bank-commissioner-district-3","Red Bank City Commission, 3rd District","default-avatar.png"
-54,"Kurt J.","Faires Sr.","false","kurt-faires","Kurt J. Faires Sr.",,,,,,17,"ridgeside-commissioner","Ridgeside City Commission","default-avatar.png"
-55,"Blane","Haywood","false","blane-haywood","Blane Haywood",,,,,,17,"ridgeside-commissioner","Ridgeside City Commission","default-avatar.png"
-56,"Janet Kelley","Jobe","false","janet-kelley-jobe","Janet Kelley Jobe",,,,,,17,"ridgeside-commissioner","Ridgeside City Commission","default-avatar.png"
-57,"Annette","Allen","true","annette-allen","Annette Allen",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png"
-58,"Dick","Gee","true","dick-gee","Dick Gee",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png"
-59,"Chris","Howley","false","chris-howley","Chris Howley",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png"
-60,"Susan","Robertson","true","susan-robertson","Susan Robertson",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png"
-61,"Robert","Spalding","false","robert-spalding","Robert Spalding",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png"
-62,"Robert","Cothran","false","robert-cothran","Robert Cothran",,,,,,19,"soddy-daisy-commissioner","Soddy-Daisy City Commission","default-avatar.png"
-63,"Rick","Nunley","true","rick-nunley","Rick Nunley",,,,,,19,"soddy-daisy-commissioner","Soddy-Daisy City Commission","default-avatar.png"
-64,"Kenneth ""Ken""","Bell","false","kenneth-bell","Kenneth ""Ken"" Bell",,,,,,20,"walden-mayor","Walden Mayor","default-avatar.png"
-65,"Peter","Hetzler","true","peter-hetzler","Peter Hetzler",,,,,,20,"walden-mayor","Walden Mayor","default-avatar.png"
-66,"Thom","Peterson","false","thom-peterson","Thom Peterson",,,,,,21,"walden-alderman","Walden Alderman","default-avatar.png"
-67,"Karen Paul","Stone","false","karen-paul-stone","Karen Paul Stone",,,,,,21,"walden-alderman","Walden Alderman","default-avatar.png"
-68,"William","Trohanis","true","william-trohanis","William Trohanis",,,,,,21,"walden-alderman","Walden Alderman","default-avatar.png"
+"candidate_id","first_name","last_name","incumbent","name_slug","title","party","website","twitter","facebook","bio","race_id","div_id","race_name","image","survey","jurisdiction","q1","q2","q3","q4","q5","q6","q7","q8","q9","q10","q11","q12"
+1,"Charles V. ""Charlie""","Brown","false","charles-brown","Charles V. ""Charlie"" Brown","Democratic",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png","false","state",,,,,,,,,,,,
+2,"Steven Damon","Coburn","false","steven-damon-coburn","Steven Damon Coburn","Independent",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png","false","state",,,,,,,,,,,,
+3,"Shaun","Crowell","false","shaun-crowell","Shaun Crowell","Constitution",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png","false","state",,,,,,,,,,,,
+4,"Bill","Haslam","true","bill-haslam","Bill Haslam ","Republican",,,,,1,"tennessee-governor","Tennessee Governor","bill-haslam.jpg","false","state",,,,,,,,,,,,
+5,"John Jay","Hooker","false","john-jay-hooker","John Jay Hooker","Independent",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png","false","state",,,,,,,,,,,,
+6,"Isa","Infante","false","isa-infante","Isa Infante","Green",,,,,1,"tennessee-governor","Tennessee Governor","isa-infante.jpg","false","state",,,,,,,,,,,,
+7,"Daniel T.","Lewis","false","daniel-lewis","Daniel T. Lewis","Independent",,,,,1,"tennessee-governor","Tennessee Governor","default-avatar.png","false","state",,,,,,,,,,,,
+8,"Lamar","Alexander ","true","lamar-alexander","Lamar Alexander ","Republican","http://www.lamaralexander.com","http://twitter.com/LamarAlexander","https://www.facebook.com/lamaralexander","<p>Lamar Alexander represents Tennesseans with a conservative voice in the U.S. Senate. In its most recent evaluation, the National Rifle Association (NRA) gave Lamar an A rating. The U.S. Chamber of Commerce and the National Federation of Independent Business (NFIB) both gave his record a 100% for his pro-business votes in their most recent ratings. Similarly, the National Right to Life Committee also gave his voting record a 100% in its most recent rating for his efforts to protect life.</p><p>Lamar Alexander was born in Maryville, the son of a kindergarten teacher and an elementary school principal. He is a seventh-generation Tennessean.</p><p>He is the only Tennessean ever popularly elected both governor and U.S. Senator. He has been U.S. Education Secretary and University of Tennessee president. He chaired the National Governors Association and President Reagan's Commission on Americans Outdoors.</p><p>When elected to the U.S. Senate in 2002, Alexander had spent more adult years in the private sector than in public life. In 1972 he co-founded a Nashville law firm. In 1987 he and his wife and three others, including Bob Keeshan, television’s Captain Kangaroo, founded Corporate Child Care, Inc. The company became publicly traded in 1997 (NASDAQ) and later merged with Bright Horizons, Inc., creating the world’s largest provider of worksite daycare.</p><p>Three times between 2007 and 2012, his colleagues elected Sen. Alexander Chairman of the Senate Republican Conference — the third-ranking Republican position in the United States Senate. He is the ranking Senate Republican overseeing education, labor and health, as well as energy appropriations.</p><p>In his campaign for governor, Alexander walked 1,000 miles across Tennessee in his now-famous red and black plaid shirt. Once elected, he helped Tennessee become the third largest auto producer, the state with the top-rated four-lane highway system and the first state to pay teachers more for teaching well. He started Tennessee’s Governor’s Schools for outstanding students. When he left the governor’s office, the state had a Triple AAA bond rating, fewer employees and no long-term highway debt.</p><p>He is a classical and country pianist and the author of seven books, including Six Months Off, the story of his family’s life in Australia after he was governor.</p><p>Lamar Alexander and Honey Buhler were married in 1969. They have four children and six grandchildren. He is a Presbyterian elder.</p><p>Lamar Alexander has a conservative voting record. In their most recent ratings, Lamar received an A rating from the NRA, 100 percent from the U.S. Chamber, 100 percent from the NFIB and 100 percent from National Right to Life.</p>",2,"us-senate","U.S. Senate","lamar-alexander.jpg","false","federal",,,,,,,,,,,,
+9,"Gordon","Ball","false","gordon-ball","Gordon Ball","Democratic",,,,,2,"us-senate","U.S. Senate","gordon-ball.jpg","false","federal",,,,,,,,,,,,
+10,"Tom","Emerson Jr.","false","tom-emerson","Tom Emerson Jr.","Independent",,,,,2,"us-senate","U.S. Senate","tom-emerson.jpg","false","federal",,,,,,,,,,,,
+11,"Edmund L.","Gauthier","false","edmund-gauthier","Edmund L. Gauthier","Independent","http://www.gauthierforsenate2014.com",,,"My given name is Edmund Louis Gauthier and as far as I know, I am of French descent on my father’s side and German on my mothers (therefore I don't know whether to surrender or fight :). I am divorced with no children. I’m 48 years old and was born in Texas. When I was three, my family moved to the bay area of California because of my father’s work (he was a magnificent mechanic). When I was twelve, we moved to a small farming community in south central Illinois where my mother is originally from. When I graduated high school, I immediately joined the U.S. Army and after my service, I attended college using my GI Bill and graduated in 1992 from Southern Illinois University with a B.S. degree in Mechanical Engineering Technology. I start working in construction management for a company out of Chicago, and in 1993 I volunteered for a project they had at a small coal fired power plant in Cumberland City, Tennessee. When the project was complete I chose not to go back to Chicago and I have called Dover, Tennessee home ever since. I have been working federal construction, primarily on Ft. Campbell, since 1994.",2,"us-senate","U.S. Senate","edmund-gauthier.jpg","false","federal",,,,,,,,,,,,
+12,"Joshua","James ","false","joshua-james","Joshua James ","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+13,"Danny","Page","false","danny-page","Danny Page","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+14,"Bartholomew J.","Phillips","false","bartholomew-phillips","Bartholomew J. Phillips","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+15,"Martin","Pleasant","false","martin-pleasant","Martin Pleasant","Green",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+16,"C.","Salekin","false","c-salekin","C. Salekin","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+17,"Eric","Schechter ","false","eric-schechter","Eric Schechter ","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+18,"Rick","Tyler","false","rick-tyler","Rick Tyler","Independent",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+19,"Joe","Wilmoth","false","joe-wilmoth","Joe Wilmoth","Constitution",,,,,2,"us-senate","U.S. Senate","default-avatar.png","false","federal",,,,,,,,,,,,
+20,"Chuck","Fleischmann","true","chuck-fleischmann","Chuck Fleischmann","Republican",,,,,3,"us-house-tn03","U.S. House, Tennessee's 3rd Congressional District","default-avatar.png","false","federal",,,,,,,,,,,,
+21,"Mary M.","Headrick","false","mary-headrick","Mary M. Headrick","Democratic",,,,,3,"us-house-tn03","U.S. House, Tennessee's 3rd Congressional District","mary-headrick.jpg","false","federal",,,,,,,,,,,,
+22,"Cassandra J.","Mitchell","false","cassandra-mitchell","Cassandra J. Mitchell","Independent",,,,,3,"us-house-tn03","U.S. House, Tennessee's 3rd Congressional District","default-avatar.png","false","federal",,,,,,,,,,,,
+23,"Bo","Watson","true","bo-watson","Bo Watson","Republican",,,,,4,"tennessee-senate-district-11","Tennessee Senate, 11th District","bo-watson.jpg","false","state",,,,,,,,,,,,
+24,"Gerald","McCormick","true","gerald-mccormick","Gerald McCormick","Republican",,,,,5,"tennessee-house-district-26","Tennessee House, 26th District","gerald-mccormick.jpg","false","state",,,,,,,,,,,,
+25,"Patsy","Hazlewood","false","patsy-hazlewood","Patsy Hazlewood","Republican",,,,,6,"tennessee-house-district-27","Tennessee House, 27th District","patsy-hazlewood.jpg","false","state",,,,,,,,,,,,
+26,"Eric","McRoy","false","eric-mcroy","Eric McRoy","Democratic",,,,,6,"tennessee-house-district-27","Tennessee House, 27th District","eric-mcroy.jpg","false","state",,,,,,,,,,,,
+27,"JoAnne","Favors","true","joanne-favors","JoAnne Favors","Democratic",,,,,7,"tennessee-house-district-28","Tennessee House, 28th District","joanne-favors.jpg","false","state",,,,,,,,,,,,
+28,"Mike","Carter","true","mike-carter","Mike Carter","Republican",,,,,8,"tennessee-house-district-29","Tennessee House, 29th District","mike-carter.jpg","false","state",,,,,,,,,,,,
+29,"Marc","Gravitt","false","marc-gravitt","Marc Gravitt","Republican",,,,,9,"tennessee-house-district-30","Tennessee House, 30th District","default-avatar.png","false","state",,,,,,,,,,,,
+30,"Patricia","Fountain","false","patricia-fountain","Patricia Fountain",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","default-avatar.png","false","municipal",,,,,,,,,,,,
+31,"Phil","Garver","false","phil-garver","Phil Garver",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","default-avatar.png","false","municipal",,,,,,,,,,,,
+32,"Nathan","Smith","false","nathan-smith","Nathan Smith",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","nathan-smith.jpg","false","municipal",,,,,,,,,,,,
+33,"John C.","Turner","true","john-turner","John C. Turner",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","default-avatar.png","false","municipal",,,,,,,,,,,,
+34,"Ethan","White","false","ethan-white","Ethan White",,,,,,10,"collegedale-commissioner","Collegedale Board of Commissioners","ethan-white.jpg","false","municipal",,,,,,,,,,,,
+35,"James","Bethune","false","james-bethune","James Bethune",,,,,,11,"east-ridge-mayor","East Ridge Mayor","default-avatar.png","false","municipal",,,,,,,,,,,,
+36,"Brent","Lambert","true","brent-lambert","Brent Lambert",,,,,,11,"east-ridge-mayor","East Ridge Mayor","default-avatar.png","false","municipal",,,,,,,,,,,,
+37,"Frances","Pope","false","frances-pope","Frances Pope",,,,,,11,"east-ridge-mayor","East Ridge Mayor","default-avatar.png","false","municipal",,,,,,,,,,,,
+38,"Robert","Bedwell","false","robert-bedwell","Robert Bedwell",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+39,"Jacky","Cagle","false","jacky-cagle","Jacky Cagle",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+40,"Doris","Rogers","false","doris-rogers","Doris Rogers",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+41,"Larry","Sewell","true","larry-sewell","Larry Sewell",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+42,"Robert A.","Stahl","false","robert-stahl","Robert A. Stahl",,,,,,12,"east-ridge-council-member","East Ridge City Council","robert-stahl.jpg","false","municipal",,,,,,,,,,,,
+43,"Brian D.","White","false","brian-white","Brian D. White",,,,,,12,"east-ridge-council-member","East Ridge City Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+44,"Valerie J.","Boddy","true","valerie-boddy","Valerie J. Boddy",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+45,"Curtis L.","Jones","false","curtis-jones","Curtis L. Jones",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+46,"Bill","Neighbors","true","bill-neighbors","Bill Neighbors",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+47,"Kenneth","Wilkerson","true","kenneth-wilkerson","Kenneth Wilkerson",,,,,,13,"lakesite-commissioner","Lakesite City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+48,"Rick","Causer","false","rick-causer","Rick Causer",,,,,,14,"red-bank-commissioner-atlarge","Red Bank City Commission, At Large","default-avatar.png","false","municipal",,,,,,,,,,,,
+49,"John","Roberts","true","john-roberts","John Roberts",,,,,,14,"red-bank-commissioner-atlarge","Red Bank City Commission, At Large","default-avatar.png","false","municipal",,,,,,,,,,,,
+50,"Mildred Floy","Pierce","true","mildred-floy-pierce","Mildred Floy Pierce",,,,,,15,"red-bank-commissioner-district-1","Red Bank City Commission, 1st District","default-avatar.png","false","municipal",,,,,,,,,,,,
+51,"Terry","Pope","false","terry-pope","Terry Pope",,,,,,15,"red-bank-commissioner-district-1","Red Bank City Commission, 1st District","default-avatar.png","false","municipal",,,,,,,,,,,,
+52,"Edward","LeCompte","false","edward-lecompte","Edward LeCompte",,,,,,16,"red-bank-commissioner-district-3","Red Bank City Commission, 3rd District","edward-lecompte.jpg","false","municipal",,,,,,,,,,,,
+53,"Dalton Alexander","Temple","false","dalton-alexander-temple","Dalton Alexander Temple",,,,,,16,"red-bank-commissioner-district-3","Red Bank City Commission, 3rd District","default-avatar.png","false","municipal",,,,,,,,,,,,
+54,"Kurt J.","Faires Sr.","false","kurt-faires","Kurt J. Faires Sr.",,,,,,17,"ridgeside-commissioner","Ridgeside City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+55,"Blane","Haywood","false","blane-haywood","Blane Haywood",,,,,,17,"ridgeside-commissioner","Ridgeside City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+56,"Janet Kelley","Jobe","false","janet-kelley-jobe","Janet Kelley Jobe",,,,,,17,"ridgeside-commissioner","Ridgeside City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+57,"Annette","Allen","true","annette-allen","Annette Allen",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+58,"Dick","Gee","true","dick-gee","Dick Gee",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+59,"Chris","Howley","false","chris-howley","Chris Howley",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+60,"Susan","Robertson","true","susan-robertson","Susan Robertson",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+61,"Robert","Spalding","false","robert-spalding","Robert Spalding",,,,,,18,"signal-mountain-council","Signal Mountain Town Council","default-avatar.png","false","municipal",,,,,,,,,,,,
+62,"Robert","Cothran","false","robert-cothran","Robert Cothran",,,,,,19,"soddy-daisy-commissioner","Soddy-Daisy City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+63,"Rick","Nunley","true","rick-nunley","Rick Nunley",,,,,,19,"soddy-daisy-commissioner","Soddy-Daisy City Commission","default-avatar.png","false","municipal",,,,,,,,,,,,
+64,"Kenneth ""Ken""","Bell","false","kenneth-bell","Kenneth ""Ken"" Bell",,,,,,20,"walden-mayor","Walden Mayor","default-avatar.png","false","municipal",,,,,,,,,,,,
+65,"Peter","Hetzler","true","peter-hetzler","Peter Hetzler",,,,,,20,"walden-mayor","Walden Mayor","default-avatar.png","false","municipal",,,,,,,,,,,,
+66,"Thom","Peterson","false","thom-peterson","Thom Peterson",,,,,,21,"walden-alderman","Walden Alderman","default-avatar.png","false","municipal",,,,,,,,,,,,
+67,"Karen Paul","Stone","false","karen-paul-stone","Karen Paul Stone",,,,,,21,"walden-alderman","Walden Alderman","default-avatar.png","false","municipal",,,,,,,,,,,,
+68,"William","Trohanis","true","william-trohanis","William Trohanis",,,,,,21,"walden-alderman","Walden Alderman","default-avatar.png","false","municipal",,,,,,,,,,,,

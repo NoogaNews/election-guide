@@ -13,9 +13,9 @@ layout: default
             <small>
                 {% if page.party %}<li>{{ page.party }}</li>{% endif %}
                 {% if page.incumbent %}<li>Incumbent</li>{% endif %}
-                {% if page.website %}<li><a href="{{ page.website }}">Website</li>{% endif %}
-                {% if page.twitter %}<li><a href="{{ page.twitter }}">Twitter</li>{% endif %}
-                {% if page.facebook %}<li><a href="{{ page.website }}">Facebook</li>{% endif %}
+                {% if page.website %}<li><a href="{{ page.website }}">Website</a></li>{% endif %}
+                {% if page.twitter %}<li><a href="{{ page.twitter }}">Twitter</a></li>{% endif %}
+                {% if page.facebook %}<li><a href="{{ page.website }}">Facebook</a></li>{% endif %}
             </small>
         </ul>
     </div>
@@ -25,11 +25,12 @@ layout: default
     <div class="large-12 columns" style="margin: 25px 0 0 0">
         
         <p>{{ page.title }} is running for {{ page.race_name }}.</p>
+        
         {% if page.bio %}<p>{{ page.bio }}</p>{% endif %}
 
-        {% include federal-survey.html %}
-        {% include state-survey.html %}
-        {% include municipal-survey.html %}
+        {% if page.jurisdiction == 'federal' %}{% include federal-survey.html %}{% endif %}
+        {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
+        {% if page.jurisdiction == 'municipal' %}{% include municipal-survey.html %}{% endif %}
 
     </div>
 </div>

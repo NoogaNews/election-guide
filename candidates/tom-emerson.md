@@ -15,4 +15,18 @@ race_id: 2
 div_id: us-senate
 race_name: U.S. Senate
 image: tom-emerson.jpg
+survey: false
+jurisdiction: federal
+q1: 
+q2: 
+q3: 
+q4: 
+q5: 
+q6: 
+q7: 
+q8: 
+q9: 
+q10: 
+q11: 
+q12: 
 ---
