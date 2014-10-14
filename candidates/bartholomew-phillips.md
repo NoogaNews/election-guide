@@ -1,7 +1,7 @@
 ---
 layout: candidate
 candidate_id: 14
-first_name: Bartholomew J.
+first_name: Bartholomew
 last_name: Phillips
 incumbent: false
 name_slug: bartholomew-phillips
