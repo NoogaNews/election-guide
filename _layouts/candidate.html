@@ -37,9 +37,11 @@ layout: default
             <p>{{ page.bio }}</p>
         {% endif %}
 
-        {% if page.jurisdiction == 'federal' %}{% include federal-survey.html %}{% endif %}
-        {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
-        {% if page.jurisdiction == 'municipal' %}{% include municipal-survey.html %}{% endif %}
+        {% if page.survey %}
+            {% if page.jurisdiction == 'federal' %}{% include federal-survey.html %}{% endif %}
+            {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
+            {% if page.jurisdiction == 'municipal' %}{% include municipal-survey.html %}{% endif %}
+        {% endif %}
 
     </div>
 </div>

@@ -15,7 +15,7 @@ race_id: 1
 div_id: tennessee-governor
 race_name: Tennessee Governor
 image: isa-infante.jpg
-survey: false
+survey: true
 jurisdiction: state
 q1: Isa Infante supports the expansion of TennCare under the Affordable Care Act.  Every Tennessee citizen is deserving of affordable, accessible health care.  A healthier Tennessee will result in lower absenteeism at school and work, and in turn improve businesses and schools. Tennessee has already lost millions of dollars in federal money by not expanding TennCare.  Hospitals suffer a financial loss on a daily basis, health care workers are threatened with layoffs, and residents of rural communities are losing access to healthcare. The financial loss Tennessee has already suffered under the decision to not expand TennCare will be compounded by the costs that negligible health care imposes upon our state. Expanding TennCare is necessary for the health and education of Tennessee citizens, and for the Tennessee economy.
 q2: Isa Infante opposes more restrictions on abortion in Tennessee. Women and men have the right to make their own personal healthcare decisions.
