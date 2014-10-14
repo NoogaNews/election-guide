@@ -45,10 +45,8 @@
     googleAPIKey = $('#voterformjs').data('civic-api-key')
     ;
     
-    
+    // Submit form
     $('#button').click(function() {
-
-        // googleAPIKey = $('#voterformjs').data('civic-api-key');
 
         street  =  $('#streetAddress').val();
         city    =  $('#city').val();
@@ -67,7 +65,6 @@
         // Hide form
         $('#voter-form').hide();
 
-        // Remove default address after testing
         address = [street, city, state, zipCode].join(' ');
 
         callAPI();
