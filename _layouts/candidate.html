@@ -26,7 +26,10 @@ layout: default
         
         <p>{{ page.title }} is running for {{ page.race_name }}.</p>
         
-        {% if page.bio %}<p>{{ page.bio }}</p>{% endif %}
+        {% if page.bio %}
+            <h3>Bio</h3>
+            <p>{{ page.bio }}</p>
+        {% endif %}
 
         {% if page.jurisdiction == 'federal' %}{% include federal-survey.html %}{% endif %}
         {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
