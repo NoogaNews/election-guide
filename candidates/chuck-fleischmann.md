@@ -14,7 +14,7 @@ bio: Chuck Fleischmann is a fiscal and social conservative who has represented T
 race_id: 3
 div_id: us-house-tn03
 race_name: U.S. House, Tennessee's 3rd Congressional District
-image: default-avatar.png
+image: chuck-fleischmann.jpg
 survey: true
 jurisdiction: federal
 q1: Despite the increasing cost, our current health care system has many positive attributes. We need to build upon these, but there are changes that can be made to not only lower costs but to also provide patients with the care that they need, want, and deserve. A government run health insurance program, however, is not the answer. It would take control away from the doctors, threaten employer-sponsored health insurance, and limit individual choices. Government run health insurance simply does not work.
