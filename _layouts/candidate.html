@@ -11,7 +11,13 @@ layout: default
     <div class="large-9 columns">
         <ul class="no-bullet">
             <small>
-                {% if page.party %}<li>{{ page.party }}</li>{% endif %}
+                {% if page.party %}
+                    {% if page.party != 'Independent' %}
+                        <li>{{ page.party }} Party</li>
+                    {% else %}
+                        <li>Independent</li>
+                    {% endif %}
+                {% endif %}
                 {% if page.incumbent %}<li>Incumbent</li>{% endif %}
                 {% if page.website %}<li><a href="{{ page.website }}">Website</a></li>{% endif %}
                 {% if page.twitter %}<li><a href="{{ page.twitter }}">Twitter</a></li>{% endif %}
