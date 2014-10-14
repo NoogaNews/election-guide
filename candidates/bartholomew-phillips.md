@@ -5,7 +5,7 @@ first_name: Bartholomew J.
 last_name: Phillips
 incumbent: false
 name_slug: bartholomew-phillips
-title: Bartholomew J. Phillips
+title: Bartholomew Phillips
 party: Independent
 website: 
 twitter: 
