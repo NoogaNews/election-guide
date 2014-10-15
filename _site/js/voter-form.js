@@ -47,7 +47,6 @@
     
     // Submit form
     $('#button').click(function() {
-
         street  =  $('#streetAddress').val();
         city    =  $('#city').val();
         zipCode =  $('#zipCode').val();
@@ -60,9 +59,6 @@
         if (zipCode == '') { 
             return ; 
         }
-        
-        // Hide form
-        $('#voter-form').hide();
 
         address = [street, city, state, zipCode].join(' ');
 
@@ -119,11 +115,26 @@
     };
 
     function writeToDOM() {
+        // Hide form
+        $('#voter-form').hide();
+
         var html = Mustache.to_html(template, races);
         var node = document.getElementById("voter-races");
 
         node.innerHTML = html;
+        history.pushState(races,'Races','#races');
     };
+
+    // Check history
+    $(document).ready(function() {
+        
+        if (history.state.races.length > 0) {        
+            races['races'].length = 0;
+            races['races'] = history.state.races;
+
+            writeToDOM();
+        }
+    });
 
 })(jQuery, Mustache);
 
