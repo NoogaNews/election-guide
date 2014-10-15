@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nooga.com Voter Guide</title>
-    <description>Nooga.com voter guide for the Nov. 4 election in Hamilton County, Tennessee.</description>
+    <title>Nooga.com Election Guide</title>
+    <description>Nooga.com guide for the Nov. 4 election in Hamilton County, Tennessee.</description>
     <link>/election-guide/</link>
     <atom:link href="/election-guide/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 16:18:20 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 16:18:20 -0400</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2014 16:42:28 -0400</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2014 16:42:28 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
   </channel>

@@ -5,7 +5,6 @@ layout: default
 <div class="row">
     <div class="large-3 columns">
         <img src="{{ site.baseurl }}/img/{{ page.image }}">
-        <!-- <img src="{{ site.baseurl }}/img/default-avatar.png" /> -->
     </div>
 
     <div class="large-9 columns">
@@ -29,8 +28,8 @@ layout: default
 
 <div class="row">
     <div class="large-12 columns" style="margin: 25px 0 0 0">
-        
         <p>{{ page.title }} is running for {{ page.race_name }}.</p>
+        <p><small><a href="javascript:history.back()">Back to races</a></small></p>
         
         {% if page.bio %}
             <h3>Bio</h3>
@@ -42,9 +41,15 @@ layout: default
             {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
             {% if page.jurisdiction == 'municipal' %}{% include municipal-survey.html %}{% endif %}
         {% else %}
-            <p><em>This candidate has not completed the survey for our voter guide.</em></p>
+            <p><em>This candidate has not completed the survey for our election guide.</em></p>
         {% endif %}
 
+    </div>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+        
+        <br>
     </div>
 </div>
 
