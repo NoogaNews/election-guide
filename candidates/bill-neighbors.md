@@ -14,7 +14,7 @@ bio:
 race_id: 13
 div_id: lakesite-commissioner
 race_name: Lakesite City Commission
-image: default-avatar.png
+image: bill-neighbors.jpg
 survey: false
 jurisdiction: municipal
 q1: 

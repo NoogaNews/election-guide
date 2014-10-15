@@ -14,7 +14,7 @@ bio:
 race_id: 18
 div_id: signal-mountain-council
 race_name: Signal Mountain Town Council
-image: default-avatar.png
+image: dick-gee.jpg
 survey: false
 jurisdiction: municipal
 q1: 

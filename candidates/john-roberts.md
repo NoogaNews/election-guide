@@ -14,7 +14,7 @@ bio:
 race_id: 14
 div_id: red-bank-commissioner-atlarge
 race_name: Red Bank City Commission, At Large
-image: default-avatar.png
+image: john-roberts.jpg
 survey: false
 jurisdiction: municipal
 q1: 
