@@ -14,7 +14,7 @@ bio: I have been living in Red Bank for three and a half years and although I do
 race_id: 16
 div_id: red-bank-commissioner-district-3
 race_name: Red Bank City Commission, 3rd District
-image: default-avatar.png
+image: dalton-alexander-temple.jpg
 survey: true
 jurisdiction: municipal
 q1: While considering the decision to run back in late February it became apparent to me that Red Bank was in need of a makeover. That is when i decided to run for Commissioner of District 3. I feel that it is the best service to give to the city that I now live in to represent the citizens and my community while bringing new and youthful ideas. Red Bank is in a very unique situation due its low taxes and its proximity to the North Shore area making it the next destination to look when searching for a new home, with the right commission sitting on the board, a proactive commission, there are only great things to come for the City.

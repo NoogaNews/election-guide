@@ -14,7 +14,7 @@ bio:
 race_id: 11
 div_id: east-ridge-mayor
 race_name: East Ridge Mayor
-image: default-avatar.png
+image: james-bethune.jpg
 survey: false
 jurisdiction: municipal
 q1: 

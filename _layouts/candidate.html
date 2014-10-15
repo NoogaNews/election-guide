@@ -41,6 +41,8 @@ layout: default
             {% if page.jurisdiction == 'federal' %}{% include federal-survey.html %}{% endif %}
             {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
             {% if page.jurisdiction == 'municipal' %}{% include municipal-survey.html %}{% endif %}
+        {% else %}
+            <p><em>This candidate has not completed the survey for our voter guide.</em></p>
         {% endif %}
 
     </div>
