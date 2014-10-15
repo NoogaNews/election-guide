@@ -53,15 +53,14 @@
         zipCode =  $('#zipCode').val();
         state   =  'TN'; // Derive from ZIP code
         
-        // Form validations
+        // street and ZIP required
         if (street == '') { 
-            // Form error
             return ; 
         }  
         if (zipCode == '') { 
-            // Form error
             return ; 
         }
+        
         // Hide form
         $('#voter-form').hide();
 
@@ -122,6 +121,7 @@
     function writeToDOM() {
         var html = Mustache.to_html(template, races);
         var node = document.getElementById("voter-races");
+
         node.innerHTML = html;
     };
 
