@@ -1,7 +1,6 @@
 # Site settings
 title: Nooga.com Election Guide
 description: "Nooga.com guide for the Nov. 4 election in Hamilton County, Tennessee."
-# baseurl: "/election-guide"
 
 # Build settings
 markdown: kramdown
@@ -9,4 +8,4 @@ permalink: pretty
 
 # API keys
 civicAPIKey: AIzaSyCR53IADo5PcbVLc2tKnWk-0bo3FskStsY
-
+googleKey: UA-22274451-1
