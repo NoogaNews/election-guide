@@ -17,7 +17,7 @@ race_name: Red Bank City Commission, 3rd District
 image: edward-lecompte.jpg
 survey: true
 jurisdiction: municipal
-q1: I want to assist and serve my Red Bank Friends and Neighbors in improving our economic development.<br><br>I want a thriving, vibrant and well - maintained niche community of families, friends and neighbors.
+q1: I want to assist and serve my Red Bank Friends and Neighbors in improving our economic development.<br><br>I want a thriving, vibrant and well-maintained niche community of families, friends and neighbors.
 q2: 1. Economic and community development <br>new business <br>new infrastructure<br>support schools<br><br>2. Adopt Zoning Ordinances to protect our home and business property values<br><br>3. Proper and Complete Funding for all our city departments including admin, fire, police and public works
 q3: Open door policy<br>Town Hall Meetings <br>Revise city codes, update the city charter, adopt the zoning ordinances, support the employees and all departments. <br>actively pursue new business development in Red Bank <br>Appoint and Hire a Business Development Recruiter<br>Appoint and Hire a Special Event - Community Director to benefit Citizens and Visitor Tourism
 q4: 
