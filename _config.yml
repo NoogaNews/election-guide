@@ -1,7 +1,8 @@
 # Site settings
 title: Nooga.com Election Guide
 description: "Nooga.com guide for the Nov. 4 election in Hamilton County, Tennessee."
-baseurl: "/election-guide"
+baseurl: ""
+domain: ""
 
 # Build settings
 markdown: kramdown
