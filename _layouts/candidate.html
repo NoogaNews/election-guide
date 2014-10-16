@@ -27,29 +27,33 @@ layout: default
 </div>
 
 <div class="row">
-    <div class="large-12 columns" style="margin: 25px 0 0 0">
-        <p>{{ page.title }} is running for {{ page.race_name }}.</p>
-        <p><small><a href="javascript:history.back()">Back to races</a></small></p>
+    <div class="large-12 columns" style="margin: 10px 0 0 0">
+        <p><small>{{ page.title }} is running for {{ page.race_name }}</small><br><small><a href="javascript:history.back()">Back to races</a></small></p>
         
         {% if page.bio %}
+            <hr />
             <h3>Bio</h3>
             <p>{{ page.bio }}</p>
+            <hr />
         {% endif %}
+
 
         {% if page.survey %}
             {% if page.jurisdiction == 'federal' %}{% include federal-survey.html %}{% endif %}
             {% if page.jurisdiction == 'state' %}{% include state-survey.html %}{% endif %}
             {% if page.jurisdiction == 'municipal' %}{% include municipal-survey.html %}{% endif %}
+            <hr />
         {% else %}
             <p><em>This candidate has not completed the survey for our election guide.</em></p>
+            <hr />
         {% endif %}
-
+        
     </div>
 </div>
 <div class="row">
     <div class="large-12 columns">
         
-        <br>
+        
     </div>
 </div>
 
