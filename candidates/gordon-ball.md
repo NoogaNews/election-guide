@@ -26,7 +26,7 @@ q6: Invest in a Manhattan style project for the next 20 years that includes wind
 q7: 90% of reputable scientist say climate change is a problem, if they are to be believed, we must curb our emissions, but to do so without other industrial countries agreement is senseless.
 q8: We need to secure our borders more probably, and not just the southern border.
 q9: I do not believe in Amnesty. I do think there needs to be a fair and clear path for immigrants in this country to obtain citizenship and laws are in place to do that, but it needs to also be fair to taxpayers and legal immigrants.
-q10: We have to quit giving tax exemptions to corporations such as the oil industry and Wall Street. And it is imperative that we crack down on wasteful spending.
+q10: We need a balanced budget.
 q11: Total restructuring of our tax system, which if properly done could create 1 million good paying jobs to rebuild our infrastructure for the 21st century. This must be a bi-partisan effort.
-q12: We need a balanced budget.
+q12: We have to quit giving tax exemptions to corporations such as the oil industry and Wall Street. And it is imperative that we crack down on wasteful spending.
 ---
