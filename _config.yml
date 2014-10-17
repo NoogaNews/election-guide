@@ -1,7 +1,7 @@
 # Site settings
 title: Nooga.com Election Guide
 description: "There are more than 60 candidates in the Hamilton County election on Nov. 4. That's a lot of names and faces to keep straight. Our election guide cuts through the noise so you can just focus on the ones who'll be on your ballot."
-image: "election-guide.png"
+image: "election-guide.jpg"
 
 # Build settings
 markdown: kramdown
