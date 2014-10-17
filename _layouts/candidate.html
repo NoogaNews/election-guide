@@ -9,7 +9,7 @@ layout: default
 
     <div class="large-9 columns">
         <ul class="no-bullet">
-            <small>
+
                 {% if page.party %}
                     {% if page.party != 'Independent' %}
                         <li>{{ page.party }} Party</li>
@@ -21,14 +21,14 @@ layout: default
                 {% if page.website %}<li><a href="{{ page.website }}">Website</a></li>{% endif %}
                 {% if page.twitter %}<li><a href="{{ page.twitter }}">Twitter</a></li>{% endif %}
                 {% if page.facebook %}<li><a href="{{ page.website }}">Facebook</a></li>{% endif %}
-            </small>
+
         </ul>
     </div>
 </div>
 
 <div class="row">
     <div class="large-12 columns" style="margin: 10px 0 0 0">
-        <p><small>{{ page.title }} is running for {{ page.race_name }}</small><br><small><a href="javascript:history.back()">Back to races</a></small></p>
+        <p>{{ page.title }} is running for {{ page.race_name }}</small><br><small><a href="javascript:history.back()">Back to races</a></small></p>
         
         {% if page.bio %}
             <hr />
