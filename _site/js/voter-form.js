@@ -20,11 +20,11 @@
                         '{{ #candidates }}' + 
                         '<div class="large-6 medium-6 small-12 panel columns left" data-equalizer-watch style="background:none;border:none">' + 
                             '<a href="./candidates/{{ name_slug }}"><img src="./img/{{ image }}" class="left">' +
-                            '<p class="text-center" ><small>' + 
+                            '<p class="text-center" >' + 
                                 '{{ title }}</a><br>' + 
                                 '{{ #party }}{{ party }}<br>{{ /party }}' + 
                                 '{{ #incumbent }}<em>Incumbent</em>{{ /incumbent }}' + 
-                            '</small></p>' + 
+                            '</p>' + 
                         '</div>' +
                         '{{ /candidates }}' +
                     '</div>' + 

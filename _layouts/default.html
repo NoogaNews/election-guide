@@ -5,15 +5,14 @@
 
     <body>
 
-      <!-- NAV, BANNER AD, HEADLINE -->
       {% include header.html %}
                        
-      <!-- MAIN -->
       <div class="row">
 
-        <div class="large-1 columns">&nbsp;</div> 
+        <!-- <div class="large-1 columns">&nbsp;</div> --> 
 
-        <div class="large-7 columns">
+        <!-- main content window -->
+        <div class="large-8 columns">
           
           {{ content }}
           
@@ -23,18 +22,14 @@
           </div>
         </div>
 
-        <!-- SIDEBAR -->
+        <!-- sidebar -->
         <div class="large-4 columns">
 
-          <!-- SIDEBAR AD -->
           {% include sidebar-ad.html %}
 
         </div>
       </div>       
 
-      {% include footer.html %}
-
-      <!-- JAVASCRIPT -->
       <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
       <script src="{{ site.baseurl }}/js/vendor/fastclick.js"></script>
       <script src="{{ site.baseurl }}/js/foundation.min.js"></script>
