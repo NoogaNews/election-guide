@@ -6,6 +6,9 @@ image: "election-guide.jpg"
 # Build settings
 markdown: kramdown
 permalink: pretty
+ignore:
+  - Gemfile
+  - Gemfile.lock
 
 # API keys
 civicAPIKey: AIzaSyCR53IADo5PcbVLc2tKnWk-0bo3FskStsY
